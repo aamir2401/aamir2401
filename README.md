@@ -1,3 +1,5 @@
+![Banner](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+
 <h1 align="center">Hi 👋, I'm Aamir Anwar</h1>
 <h3 align="center">I am apassionate and dedicated computer science graduate with a strong foundation in software development and a particular interest in the MERN stack and data structures and algorithms (DSA)</h3>
 <img align="right" alt="coder" width="400" src="https://as2.ftcdn.net/v2/jpg/06/56/65/07/1000_F_656650754_RHZzyKxhwkJx6PldmDZyFwHnIihneaG4.webp"/>
