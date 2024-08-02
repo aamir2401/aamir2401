@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aamir Anwar</h1>
 <h3 align="center">I am apassionate and dedicated computer science graduate with a strong foundation in software development and a particular interest in the MERN stack and data structures and algorithms (DSA)</h3>
-<img align="right" alt="coder" width="400" src="https://as2.ftcdn.net/v2/jpg/06/56/65/07/1000_F_656650754_RHZzyKxhwkJx6PldmDZyFwHnIihneaG4.webp"/>
+<img align="right" alt="coder" width="400" height="250" src="https://as2.ftcdn.net/v2/jpg/06/56/65/07/1000_F_656650754_RHZzyKxhwkJx6PldmDZyFwHnIihneaG4.webp"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamir2401&label=Profile%20views&color=0e75b6&style=flat" alt="aamir2401" /> </p>
 
